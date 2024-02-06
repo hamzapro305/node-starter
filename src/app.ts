@@ -3,7 +3,7 @@ import "reflect-metadata";
 import dotenv from "dotenv";
 import Middlewares from "./middlewares/Middlewares";
 import ErrorMiddleware from "./middlewares/ErrorMiddleware";
-import TestRouter from "./repos/TestRouter";
+import TestRouter from "./routers/TestRouter";
 
 dotenv.config();
 const PORT = 8000;
