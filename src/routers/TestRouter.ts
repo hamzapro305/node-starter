@@ -9,4 +9,4 @@ const testController = container.resolve(TestController);
 
 TestRouter.get("/", testController.test);
 
-export default TestRouter;
+export { TestRouter };
