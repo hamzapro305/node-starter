@@ -1,12 +1,5 @@
 ---
-
-header: |
-  <div align="center">
-    <h1>
-      🚀 <span style="color: #4CAF50;">Node Starter</span> Backend Framework
-    </h1>
-  </div>
-
+## <h1 align="center">🚀 <span style="color: #4CAF50;">Node Starter</span> Backend Framework</hi>
 ---
 
 ## 🚀 <span style="color: #00BCD4;">Project Description</span>
