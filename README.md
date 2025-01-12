@@ -1,6 +1,6 @@
 ---
 <div align="center">
-  <h1>🚀 <span style="color: #4CAF50;">Node Starter</span> Backend Framework</h1>
+  <h1>🚀 <span style="color: #4CAF50;">Node Starter</span> Backend Framework </h1>
 </div>
 ---
 
